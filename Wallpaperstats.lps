@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="Wallpaperstats.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="8" Y="297"/>
+        <UsageCount Value="42"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\bgrabitmap-9.5\bgrabitmap-9.5\bgrabitmap\bgralazresource.pas"/>
+        <UnitName Value="BGRALazResource"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="48"/>
+        <CursorPos X="6" Y="56"/>
+        <UsageCount Value="9"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\wmipascal\utilwmi.pas"/>
+        <UnitName Value="Utilwmi"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="157"/>
+        <CursorPos X="7" Y="166"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\components\lazutils\easylazfreetype.pas"/>
+        <UnitName Value="EasyLazFreeType"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="853"/>
+        <CursorPos Y="860"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\lcl\include\winapi.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="11"/>
+        <CursorPos X="15"/>
+        <UsageCount Value="17"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\packages\fcl-registry\src\regdef.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="12"/>
+        <UsageCount Value="11"/>
+      </Unit5>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="532" TopLine="505"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="535" TopLine="505"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="536" TopLine="505"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="561" Column="8" TopLine="521"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="547" Column="9" TopLine="507"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="500" Column="4" TopLine="480"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="63" Column="21" TopLine="27"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="41" Column="50" TopLine="27"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="350" Column="33" TopLine="330"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="379" Column="63" TopLine="359"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="401" Column="67" TopLine="377"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="427" Column="33" TopLine="408"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="449" Column="41" TopLine="430"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="484" Column="56" TopLine="465"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="500" Column="74" TopLine="477"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="330" Column="26" TopLine="307"/>
+      </Position16>
+      <Position17>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="418" Column="33" TopLine="391"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="398" Column="37" TopLine="25"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="418" Column="56" TopLine="396"/>
+      </Position19>
+      <Position20>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="12" Column="12"/>
+      </Position20>
+      <Position21>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="419" Column="38" TopLine="22"/>
+      </Position21>
+      <Position22>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="420" Column="105" TopLine="401"/>
+      </Position22>
+      <Position23>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="419" Column="42" TopLine="397"/>
+      </Position23>
+      <Position24>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="413" Column="105" TopLine="397"/>
+      </Position24>
+      <Position25>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="12" Column="3" TopLine="4"/>
+      </Position25>
+      <Position26>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="524" Column="106" TopLine="503"/>
+      </Position26>
+      <Position27>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="298" Column="46" TopLine="278"/>
+      </Position27>
+      <Position28>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="302" Column="18" TopLine="293"/>
+      </Position28>
+      <Position29>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="314" Column="5" TopLine="290"/>
+      </Position29>
+      <Position30>
+        <Filename Value="Wallpaperstats.pas"/>
+        <Caret Line="309" Column="8" TopLine="294"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
